@@ -1,2 +1,2 @@
 # DMOJ solutions
- Repo for various dmoj solutions
+ Repo for various dmoj competitive programming solutions
